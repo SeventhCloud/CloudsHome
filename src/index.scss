@@ -1,0 +1,12 @@
+$default-bg-color: #282c34;
+
+html, body {
+  margin: 0;
+  background-color: $default-bg-color;
+  height: 100%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
